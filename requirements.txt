@@ -1,0 +1,6 @@
+streamlit
+Pillow
+gTTS
+rembg
+moviepy
+google-generativeai
